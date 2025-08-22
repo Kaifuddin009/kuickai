@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:ital,wght@0,300..700;1,300..700&family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+*{
+  font-family: "Libertinus Sans", sans-serif;
+}
+@theme{
+  --color-primary: #5044E5;
+}
+.reset-tw, .reset-tw *{
+  all: revert !important;
+}
+.cl-drawerRoot{
+  z-index: 10;
+}
