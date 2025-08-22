@@ -1,7 +1,7 @@
 
 <!-- PROJECT BANNER -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfLLWc7XRElN86amPp2ulOukcH5s-5Ou4MBjkok4Tf82dc2hPJE8SQ6P6_7w6JefE1w&usqp=CAU" alt="AI SaaS Banner" width="100%" height='50%'/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfLLWc7XRElN86amPp2ulOukcH5s-5Ou4MBjkok4Tf82dc2hPJE8SQ6P6_7w6JefE1w&usqp=CAU" alt="AI SaaS Banner"  height='100%'/>
 </p>
 
 <h1 align="center">🚀 AI SaaS Platform</h1>
