@@ -44,9 +44,9 @@ Key highlights:
 ## 🛠️ Tech Stack
 **Frontend:** React, TailwindCSS, Framer Motion  
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB / PostgreSQL  
+**Database:** PostgreSQL  
 **Authentication:** JWT, bcrypt  
-**Deployment:** Docker, Vercel, Render  
+**Deployment:** Vercel  
 
 ---
 
