@@ -1,7 +1,7 @@
 
 <!-- PROJECT BANNER -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1665686304367-5e7d7f5bcb3d?ixlib=rb-4.0.3&q=80&w=1200" alt="AI SaaS Banner" width="100%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfLLWc7XRElN86amPp2ulOukcH5s-5Ou4MBjkok4Tf82dc2hPJE8SQ6P6_7w6JefE1w&usqp=CAU" alt="AI SaaS Banner" width="100%" />
 </p>
 
 <h1 align="center">🚀 AI SaaS Platform</h1>
@@ -47,13 +47,6 @@ Key highlights:
 **Database:** MongoDB / PostgreSQL  
 **Authentication:** JWT, bcrypt  
 **Deployment:** Docker, Vercel, Render  
-
----
-
-## 📸 Demo / Screenshots
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-2176f6f27d2d?ixlib=rb-4.0.3&q=80&w=800" width="85%" alt="Demo Screenshot" />
-</p>
 
 ---
 
