@@ -54,5 +54,5 @@ Key highlights:
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/kaifuddin009/kuick.git
+git clone https://github.com/kaifuddin009/kuickai.git
 cd quickai
