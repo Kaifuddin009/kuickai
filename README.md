@@ -9,10 +9,10 @@
   <b>An Intelligent SaaS Platform powered by AI — Scalable, Modern, and Production-Ready.</b>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github" /></a>
+<p align ="center">
+
   
-  <a href="#"><img src="https://img.shields.io/badge/Made%20with-Node.js-green?style=flat-square&logo=node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Backend-Express-black?style=flat-square&logo=express" /></a>
 </p>
